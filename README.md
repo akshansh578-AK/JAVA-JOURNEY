@@ -6,6 +6,8 @@ This repository contains my Java learning programs.
 - BASICS_OF_JAVA
 - CONDITIONAL_STATEMENTS
 - CONTROL_FLOW_LOOPS
+- PATTERN_PRINTING
+- METHODS
 
 ## Structure
 All code is inside the `src` folder.
