@@ -1,0 +1,19 @@
+package METHODS;
+import java.util.Scanner;
+public class SWAPTWONUMBER {
+    public static void swap(int a , int b){
+        int c = a ;
+        a = b;
+        b = c;
+
+        System.out.println(a+" "+b);
+    }
+    static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
+        int a = sc.nextInt();
+        int b = sc.nextInt();
+
+        System.out.println(a+" "+b);
+        swap(a,b);
+    }
+}
